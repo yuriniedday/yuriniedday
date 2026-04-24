@@ -101,8 +101,8 @@ Minha abordagem: **código testado, observável, com permissões claras e pronto
 ## 📫 Contato
 
 * 💼 **GitHub**: [@yuriniedday](https://github.com/yuriniedday)
-* 📧 **Email**: *(adicione seu e-mail aqui)*
-* 🔗 **LinkedIn**: *(adicione seu LinkedIn aqui)*
+* 📧 **Email**: yuriniedday8@gmail.com
+* 🔗 **LinkedIn**: www.linkedin.com/in/yuriniedday
 
 ---
 
